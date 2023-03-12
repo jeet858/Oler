@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775451640472",
+    "project_id": "oler-c1311",
+    "storage_bucket": "oler-c1311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775451640472:android:77c9e43f90da64e47bc6ed",
+        "android_client_info": {
+          "package_name": "com.example.oler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775451640472-f6qf5d6rpcnj91ce3si6u0dfvft9vfmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDblkhtH0-tasGIw7C_0t7FseuOb92F9CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775451640472-f6qf5d6rpcnj91ce3si6u0dfvft9vfmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
